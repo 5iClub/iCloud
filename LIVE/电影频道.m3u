@@ -1,0 +1,338 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-id="CHC3" tvg-logo="https://livecdn.zbds.org/logo/CHC动作电影.png" group-title="电影频道", CHC动作电影
+http://atcq62.3950.cn:35455/mgtv/644368714.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="2" tvg-logo="https://livecdn.zbds.org/logo/CHC家庭影院.png" group-title="电影频道", CHC家庭影院
+http://113.195.172.192:808/hls/113/index.m3u8
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC1" tvg-logo="https://livecdn.zbds.org/logo/CHC影迷电影.png" group-title="电影频道", CHC影迷电影
+http://atcq62.3950.cn:35455/mgtv/952383261.m3u8
+#EXTINF:-1 tvg-name="黑莓电影" tvg-id="黑莓电影" tvg-logo="https://livecdn.zbds.org/logo/黑莓电影.png" group-title="电影频道", 黑莓电影
+https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
+#EXTINF:-1 tvg-name="科幻电影" tvg-id="科幻电影" tvg-logo="https://livecdn.zbds.org/logo/科幻电影.png" group-title="电影频道", 科幻电影
+https://mursor.ottiptv.cc/yy/1354930209
+#EXTINF:-1 tvg-name="凤凰电影" tvg-id="凤凰电影" tvg-logo="https://livecdn.zbds.org/logo/凤凰电影.png" group-title="电影频道", 凤凰电影
+http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1 tvg-name="龙华电影" tvg-id="龙华电影" tvg-logo="https://livecdn.zbds.org/logo/龙华电影.png" group-title="电影频道", 龙华电影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+#EXTINF:-1 tvg-name="AMC电影" tvg-id="AMC电影" tvg-logo="https://livecdn.zbds.org/logo/AMC电影.png" group-title="电影频道", AMC电影
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 tvg-name="1930年代经典电影" tvg-id="1930年代经典电影" tvg-logo="https://livecdn.zbds.org/logo/1930年代经典电影.png" group-title="电影频道", 1930年代经典电影
+https://mursor.ottiptv.cc/yy/1356363815
+#EXTINF:-1 tvg-name="24小时电影" tvg-id="24小时电影" tvg-logo="https://livecdn.zbds.org/logo/24小时电影.png" group-title="电影频道", 24小时电影
+https://mursor.ottiptv.cc/yy/1356051105
+#EXTINF:-1 tvg-name="24小时轮播霞慕尼amp马德里攀岩世界杯" tvg-id="24小时轮播霞慕尼amp马德里攀岩世界杯" tvg-logo="https://livecdn.zbds.org/logo/24小时轮播霞慕尼amp马德里攀岩世界杯.png" group-title="电影频道", 24小时轮播霞慕尼amp马德里攀岩世界杯
+https://mursor.ottiptv.cc/bilibili/1809421678
+#EXTINF:-1 tvg-name="28岁电影" tvg-id="28岁电影" tvg-logo="https://livecdn.zbds.org/logo/28岁电影.png" group-title="电影频道", 28岁电影
+https://mursor.ottiptv.cc/douyu/8884164
+#EXTINF:-1 tvg-name="CHC电影" tvg-id="CHC电影" tvg-logo="https://livecdn.zbds.org/logo/CHC电影.png" group-title="电影频道", CHC电影
+http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+#EXTINF:-1 tvg-name="三七电影V" tvg-id="三七电影V" tvg-logo="https://livecdn.zbds.org/logo/三七电影V.png" group-title="电影频道", 三七电影V
+https://mursor.ottiptv.cc/douyu/9457792
+#EXTINF:-1 tvg-name="上虞文化影院" tvg-id="上虞文化影院" tvg-logo="https://livecdn.zbds.org/logo/上虞文化影院.png" group-title="电影频道", 上虞文化影院
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+#EXTINF:-1 tvg-name="东阳影视生活" tvg-id="东阳影视生活" tvg-logo="https://livecdn.zbds.org/logo/东阳影视生活.png" group-title="电影频道", 东阳影视生活
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1 tvg-name="二胖影视" tvg-id="二胖影视" tvg-logo="https://livecdn.zbds.org/logo/二胖影视.png" group-title="电影频道", 二胖影视
+https://mursor.ottiptv.cc/douyu/10064260
+#EXTINF:-1 tvg-name="互换身份成龙主演电影双龙会" tvg-id="互换身份成龙主演电影双龙会" tvg-logo="https://livecdn.zbds.org/logo/互换身份成龙主演电影双龙会.png" group-title="电影频道", 互换身份成龙主演电影双龙会
+https://mursor.ottiptv.cc/yy/1382735625
+#EXTINF:-1 tvg-name="五分钟电影汇" tvg-id="五分钟电影汇" tvg-logo="https://livecdn.zbds.org/logo/五分钟电影汇.png" group-title="电影频道", 五分钟电影汇
+https://mursor.ottiptv.cc/douyu/8443438
+#EXTINF:-1 tvg-name="享看电影" tvg-id="享看电影" tvg-logo="https://livecdn.zbds.org/logo/享看电影.png" group-title="电影频道", 享看电影
+https://mursor.ottiptv.cc/douyu/8974130
+#EXTINF:-1 tvg-name="人在囧途" tvg-id="人在囧途" tvg-logo="https://livecdn.zbds.org/logo/人在囧途.png" group-title="电影频道", 人在囧途
+https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
+#EXTINF:-1 tvg-name="人在囧途之泰囧" tvg-id="人在囧途之泰囧" tvg-logo="https://livecdn.zbds.org/logo/人在囧途之泰囧.png" group-title="电影频道", 人在囧途之泰囧
+https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
+#EXTINF:-1 tvg-name="人在囧途之港囧" tvg-id="人在囧途之港囧" tvg-logo="https://livecdn.zbds.org/logo/人在囧途之港囧.png" group-title="电影频道", 人在囧途之港囧
+https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
+#EXTINF:-1 tvg-name="俗哥看电影" tvg-id="俗哥看电影" tvg-logo="https://livecdn.zbds.org/logo/俗哥看电影.png" group-title="电影频道", 俗哥看电影
+https://mursor.ottiptv.cc/douyu/2161818
+#EXTINF:-1 tvg-name="倩女幽魂人间道" tvg-id="倩女幽魂人间道" tvg-logo="https://livecdn.zbds.org/logo/倩女幽魂人间道.png" group-title="电影频道", 倩女幽魂人间道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+#EXTINF:-1 tvg-name="倩女幽魂妖魔道" tvg-id="倩女幽魂妖魔道" tvg-logo="https://livecdn.zbds.org/logo/倩女幽魂妖魔道.png" group-title="电影频道", 倩女幽魂妖魔道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+#EXTINF:-1 tvg-name="倩女幽魂道道道" tvg-id="倩女幽魂道道道" tvg-logo="https://livecdn.zbds.org/logo/倩女幽魂道道道.png" group-title="电影频道", 倩女幽魂道道道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+#EXTINF:-1 tvg-name="冰冰影剧" tvg-id="冰冰影剧" tvg-logo="https://livecdn.zbds.org/logo/冰冰影剧.png" group-title="电影频道", 冰冰影剧
+http://iptv.jxpan.vip:18888/aio/douyu/74374
+#EXTINF:-1 tvg-name="刘德华电影" tvg-id="刘德华电影" tvg-logo="https://livecdn.zbds.org/logo/刘德华电影.png" group-title="电影频道", 刘德华电影
+http://iptv.jxpan.vip:18888/aio/huya/11342424
+#EXTINF:-1 tvg-name="南宁影视娱乐" tvg-id="南宁影视娱乐" tvg-logo="https://livecdn.zbds.org/logo/南宁影视娱乐.png" group-title="电影频道", 南宁影视娱乐
+http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/YSYL_244.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e7eb508555e76e08cc1b198d04f41fb5
+#EXTINF:-1 tvg-name="发条张的电影最TOP" tvg-id="发条张的电影最TOP" tvg-logo="https://livecdn.zbds.org/logo/发条张的电影最TOP.png" group-title="电影频道", 发条张的电影最TOP
+https://mursor.ottiptv.cc/douyu/2164691
+#EXTINF:-1 tvg-name="可乐电影o" tvg-id="可乐电影o" tvg-logo="https://livecdn.zbds.org/logo/可乐电影o.png" group-title="电影频道", 可乐电影o
+https://mursor.ottiptv.cc/huya/29598686
+#EXTINF:-1 tvg-name="周墨看电影" tvg-id="周墨看电影" tvg-logo="https://livecdn.zbds.org/logo/周墨看电影.png" group-title="电影频道", 周墨看电影
+https://mursor.ottiptv.cc/douyu/9505584
+#EXTINF:-1 tvg-name="周杰伦MV" tvg-id="周杰伦MV" tvg-logo="https://livecdn.zbds.org/logo/周杰伦MV.png" group-title="电影频道", 周杰伦MV
+http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+#EXTINF:-1 tvg-name="哈利影视" tvg-id="哈利影视" tvg-logo="https://livecdn.zbds.org/logo/哈利影视.png" group-title="电影频道", 哈利影视
+https://mursor.ottiptv.cc/douyu/8475821
+#EXTINF:-1 tvg-name="哈尔滨影视" tvg-id="哈尔滨影视" tvg-logo="https://livecdn.zbds.org/logo/哈尔滨影视.png" group-title="电影频道", 哈尔滨影视
+http://111.43.126.240:9003/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="喜人电影" tvg-id="喜人电影" tvg-logo="https://livecdn.zbds.org/logo/喜人电影.png" group-title="电影频道", 喜人电影
+https://mursor.ottiptv.cc/douyu/10348735
+#EXTINF:-1 tvg-name="喜剧电影冒牌天神12" tvg-id="喜剧电影冒牌天神12" tvg-logo="https://livecdn.zbds.org/logo/喜剧电影冒牌天神12.png" group-title="电影频道", 喜剧电影冒牌天神12
+https://mursor.ottiptv.cc/yy/1354936210
+#EXTINF:-1 tvg-name="嘉兴文化影视" tvg-id="嘉兴文化影视" tvg-logo="https://livecdn.zbds.org/logo/嘉兴文化影视.png" group-title="电影频道", 嘉兴文化影视
+http://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=2028730374-3a60eb8e324f416aa3b26dda7679d920-0-22dc7efa8452d0b0665c15eeed83609d
+#EXTINF:-1 tvg-name="四叶草影视" tvg-id="四叶草影视" tvg-logo="https://livecdn.zbds.org/logo/四叶草影视.png" group-title="电影频道", 四叶草影视
+https://mursor.ottiptv.cc/douyu/9446117
+#EXTINF:-1 tvg-name="国产动作电影" tvg-id="国产动作电影" tvg-logo="https://livecdn.zbds.org/logo/国产动作电影.png" group-title="电影频道", 国产动作电影
+https://mursor.ottiptv.cc/yy/1382736858
+#EXTINF:-1 tvg-name="国产大片电影" tvg-id="国产大片电影" tvg-logo="https://livecdn.zbds.org/logo/国产大片电影.png" group-title="电影频道", 国产大片电影
+https://mursor.ottiptv.cc/yy/1354926655
+#EXTINF:-1 tvg-name="国内玄幻电影林正英" tvg-id="国内玄幻电影林正英" tvg-logo="https://livecdn.zbds.org/logo/国内玄幻电影林正英.png" group-title="电影频道", 国内玄幻电影林正英
+https://mursor.ottiptv.cc/yy/1354932444
+#EXTINF:-1 tvg-name="国内经典动作电影" tvg-id="国内经典动作电影" tvg-logo="https://livecdn.zbds.org/logo/国内经典动作电影.png" group-title="电影频道", 国内经典动作电影
+https://mursor.ottiptv.cc/yy/1382851522
+#EXTINF:-1 tvg-name="墨逗电影" tvg-id="墨逗电影" tvg-logo="https://livecdn.zbds.org/logo/墨逗电影.png" group-title="电影频道", 墨逗电影
+https://mursor.ottiptv.cc/douyu/9614847
+#EXTINF:-1 tvg-name="夏洛特烦恼国内电影喜剧" tvg-id="夏洛特烦恼国内电影喜剧" tvg-logo="https://livecdn.zbds.org/logo/夏洛特烦恼国内电影喜剧.png" group-title="电影频道", 夏洛特烦恼国内电影喜剧
+https://mursor.ottiptv.cc/yy/1354936201
+#EXTINF:-1 tvg-name="大江大河高分影视推荐" tvg-id="大江大河高分影视推荐" tvg-logo="https://livecdn.zbds.org/logo/大江大河高分影视推荐.png" group-title="电影频道", 大江大河高分影视推荐
+https://mursor.ottiptv.cc/yy/1382736806
+#EXTINF:-1 tvg-name="大米饭影视" tvg-id="大米饭影视" tvg-logo="https://livecdn.zbds.org/logo/大米饭影视.png" group-title="电影频道", 大米饭影视
+https://mursor.ottiptv.cc/douyu/9824094
+#EXTINF:-1 tvg-name="大荒电影" tvg-id="大荒电影" tvg-logo="https://livecdn.zbds.org/logo/大荒电影.png" group-title="电影频道", 大荒电影
+https://mursor.ottiptv.cc/douyu/3508538
+#EXTINF:-1 tvg-name="大趴电影院" tvg-id="大趴电影院" tvg-logo="https://livecdn.zbds.org/logo/大趴电影院.png" group-title="电影频道", 大趴电影院
+https://mursor.ottiptv.cc/douyu/8747638
+#EXTINF:-1 tvg-name="大进军全集红色系列电影" tvg-id="大进军全集红色系列电影" tvg-logo="https://livecdn.zbds.org/logo/大进军全集红色系列电影.png" group-title="电影频道", 大进军全集红色系列电影
+https://mursor.ottiptv.cc/yy/1382745083
+#EXTINF:-1 tvg-name="天堂电影1895" tvg-id="天堂电影1895" tvg-logo="https://livecdn.zbds.org/logo/天堂电影1895.png" group-title="电影频道", 天堂电影1895
+https://mursor.ottiptv.cc/douyu/9573592
+#EXTINF:-1 tvg-name="天映经典" tvg-id="天映经典" tvg-logo="https://livecdn.zbds.org/logo/天映经典.png" group-title="电影频道", 天映经典
+https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv
+#EXTINF:-1 tvg-name="太空生命高分科幻电影开播" tvg-id="太空生命高分科幻电影开播" tvg-logo="https://livecdn.zbds.org/logo/太空生命高分科幻电影开播.png" group-title="电影频道", 太空生命高分科幻电影开播
+https://mursor.ottiptv.cc/yy/1382851586
+#EXTINF:-1 tvg-name="奇幻电影放映厅" tvg-id="奇幻电影放映厅" tvg-logo="https://livecdn.zbds.org/logo/奇幻电影放映厅.png" group-title="电影频道", 奇幻电影放映厅
+https://mursor.ottiptv.cc/huya/26355847
+#EXTINF:-1 tvg-name="奇怪电影" tvg-id="奇怪电影" tvg-logo="https://livecdn.zbds.org/logo/奇怪电影.png" group-title="电影频道", 奇怪电影
+https://mursor.ottiptv.cc/douyu/9440966
+#EXTINF:-1 tvg-name="寒战" tvg-id="寒战" tvg-logo="https://livecdn.zbds.org/logo/寒战.png" group-title="电影频道", 寒战
+https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
+#EXTINF:-1 tvg-name="小丑电影" tvg-id="小丑电影" tvg-logo="https://livecdn.zbds.org/logo/小丑电影.png" group-title="电影频道", 小丑电影
+https://mursor.ottiptv.cc/huya/29869799
+#EXTINF:-1 tvg-name="小儛电影嘚啵嘚" tvg-id="小儛电影嘚啵嘚" tvg-logo="https://livecdn.zbds.org/logo/小儛电影嘚啵嘚.png" group-title="电影频道", 小儛电影嘚啵嘚
+https://mursor.ottiptv.cc/douyu/8362978
+#EXTINF:-1 tvg-name="小儿难养影视剧" tvg-id="小儿难养影视剧" tvg-logo="https://livecdn.zbds.org/logo/小儿难养影视剧.png" group-title="电影频道", 小儿难养影视剧
+https://mursor.ottiptv.cc/yy/1382735559
+#EXTINF:-1 tvg-name="小鬼华语影院" tvg-id="小鬼华语影院" tvg-logo="https://livecdn.zbds.org/logo/小鬼华语影院.png" group-title="电影频道", 小鬼华语影院
+http://tc-tct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG_2000.xs?wsAuth=3c48b706fe90d736d90b5622adfc09d2&token=web-h5-0-3928-15d95fcfde11a749199abfc5ac7bdee6727c6402febadfb8&logo=0&expire=0&did=24482b48b98804f2b0a5b17400041701
+#EXTINF:-1 tvg-name="少年看电影" tvg-id="少年看电影" tvg-logo="https://livecdn.zbds.org/logo/少年看电影.png" group-title="电影频道", 少年看电影
+https://mursor.ottiptv.cc/douyu/8762120
+#EXTINF:-1 tvg-name="广州影视" tvg-id="广州影视" tvg-logo="https://livecdn.zbds.org/logo/广州影视.png" group-title="电影频道", 广州影视
+http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
+#EXTINF:-1 tvg-name="影视小艺" tvg-id="影视小艺" tvg-logo="https://livecdn.zbds.org/logo/影视小艺.png" group-title="电影频道", 影视小艺
+https://mursor.ottiptv.cc/yy/1382737886
+#EXTINF:-1 tvg-name="影视梗大叔" tvg-id="影视梗大叔" tvg-logo="https://livecdn.zbds.org/logo/影视梗大叔.png" group-title="电影频道", 影视梗大叔
+https://mursor.ottiptv.cc/douyu/9480648
+#EXTINF:-1 tvg-name="影视笑工场" tvg-id="影视笑工场" tvg-logo="https://livecdn.zbds.org/logo/影视笑工场.png" group-title="电影频道", 影视笑工场
+https://mursor.ottiptv.cc/douyu/10298846
+#EXTINF:-1 tvg-name="影视英雄汇" tvg-id="影视英雄汇" tvg-logo="https://livecdn.zbds.org/logo/影视英雄汇.png" group-title="电影频道", 影视英雄汇
+https://mursor.ottiptv.cc/douyu/10240495
+#EXTINF:-1 tvg-name="影视集装箱" tvg-id="影视集装箱" tvg-logo="https://livecdn.zbds.org/logo/影视集装箱.png" group-title="电影频道", 影视集装箱
+https://mursor.ottiptv.cc/douyu/8651489
+#EXTINF:-1 tvg-name="微笑影视" tvg-id="微笑影视" tvg-logo="https://livecdn.zbds.org/logo/微笑影视.png" group-title="电影频道", 微笑影视
+https://mursor.ottiptv.cc/huya/25256065
+#EXTINF:-1 tvg-name="怪兽马提尼电影" tvg-id="怪兽马提尼电影" tvg-logo="https://livecdn.zbds.org/logo/怪兽马提尼电影.png" group-title="电影频道", 怪兽马提尼电影
+https://mursor.ottiptv.cc/douyu/9075333
+#EXTINF:-1 tvg-name="怪味爆米花电影" tvg-id="怪味爆米花电影" tvg-logo="https://livecdn.zbds.org/logo/怪味爆米花电影.png" group-title="电影频道", 怪味爆米花电影
+https://mursor.ottiptv.cc/douyu/9422144
+#EXTINF:-1 tvg-name="恐怖电影" tvg-id="恐怖电影" tvg-logo="https://livecdn.zbds.org/logo/恐怖电影.png" group-title="电影频道", 恐怖电影
+https://mursor.ottiptv.cc/yy/24066336
+#EXTINF:-1 tvg-name="悬疑电影放映厅" tvg-id="悬疑电影放映厅" tvg-logo="https://livecdn.zbds.org/logo/悬疑电影放映厅.png" group-title="电影频道", 悬疑电影放映厅
+https://mursor.ottiptv.cc/huya/29982641
+#EXTINF:-1 tvg-name="惊悚电影放映厅" tvg-id="惊悚电影放映厅" tvg-logo="https://livecdn.zbds.org/logo/惊悚电影放映厅.png" group-title="电影频道", 惊悚电影放映厅
+https://mursor.ottiptv.cc/huya/26355795
+#EXTINF:-1 tvg-name="成龙电影" tvg-id="成龙电影" tvg-logo="https://livecdn.zbds.org/logo/成龙电影.png" group-title="电影频道", 成龙电影
+http://iptv.jxpan.vip:18888/aio/huya/11342386
+#EXTINF:-1 tvg-name="我不是药神" tvg-id="我不是药神" tvg-logo="https://livecdn.zbds.org/logo/我不是药神.png" group-title="电影频道", 我不是药神
+https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
+#EXTINF:-1 tvg-name="我是吃泡面看电影" tvg-id="我是吃泡面看电影" tvg-logo="https://livecdn.zbds.org/logo/我是吃泡面看电影.png" group-title="电影频道", 我是吃泡面看电影
+https://mursor.ottiptv.cc/douyu/8851063
+#EXTINF:-1 tvg-name="扁豆看电影" tvg-id="扁豆看电影" tvg-logo="https://livecdn.zbds.org/logo/扁豆看电影.png" group-title="电影频道", 扁豆看电影
+https://mursor.ottiptv.cc/huya/16028551
+#EXTINF:-1 tvg-name="拆弹专家1" tvg-id="拆弹专家1" tvg-logo="https://livecdn.zbds.org/logo/拆弹专家1.png" group-title="电影频道", 拆弹专家1
+https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
+#EXTINF:-1 tvg-name="拆弹专家2" tvg-id="拆弹专家2" tvg-logo="https://livecdn.zbds.org/logo/拆弹专家2.png" group-title="电影频道", 拆弹专家2
+https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
+#EXTINF:-1 tvg-name="指缝里看电影" tvg-id="指缝里看电影" tvg-logo="https://livecdn.zbds.org/logo/指缝里看电影.png" group-title="电影频道", 指缝里看电影
+https://mursor.ottiptv.cc/douyu/9647834
+#EXTINF:-1 tvg-name="救赎电影" tvg-id="救赎电影" tvg-logo="https://livecdn.zbds.org/logo/救赎电影.png" group-title="电影频道", 救赎电影
+https://mursor.ottiptv.cc/huya/29833341
+#EXTINF:-1 tvg-name="斗鱼港剧" tvg-id="斗鱼港剧" tvg-logo="https://livecdn.zbds.org/logo/斗鱼港剧.png" group-title="电影频道", 斗鱼港剧
+http://iptv.jxpan.vip:18888/aio/douyu/5061550
+#EXTINF:-1 tvg-name="斗鱼电影3y" tvg-id="斗鱼电影3y" tvg-logo="https://livecdn.zbds.org/logo/斗鱼电影3y.png" group-title="电影频道", 斗鱼电影3y
+http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
+#EXTINF:-1 tvg-name="无际电影" tvg-id="无际电影" tvg-logo="https://livecdn.zbds.org/logo/无际电影.png" group-title="电影频道", 无际电影
+https://mursor.ottiptv.cc/douyu/9720498
+#EXTINF:-1 tvg-name="无限复活张柏芝主演爱情电影" tvg-id="无限复活张柏芝主演爱情电影" tvg-logo="https://livecdn.zbds.org/logo/无限复活张柏芝主演爱情电影.png" group-title="电影频道", 无限复活张柏芝主演爱情电影
+https://mursor.ottiptv.cc/yy/1382745190
+#EXTINF:-1 tvg-name="有部电影儿" tvg-id="有部电影儿" tvg-logo="https://livecdn.zbds.org/logo/有部电影儿.png" group-title="电影频道", 有部电影儿
+https://mursor.ottiptv.cc/douyu/9736479
+#EXTINF:-1 tvg-name="李连杰电影" tvg-id="李连杰电影" tvg-logo="https://livecdn.zbds.org/logo/李连杰电影.png" group-title="电影频道", 李连杰电影
+http://iptv.jxpan.vip:18888/aio/huya/11342390
+#EXTINF:-1 tvg-name="林正英经典玄幻电影" tvg-id="林正英经典玄幻电影" tvg-logo="https://livecdn.zbds.org/logo/林正英经典玄幻电影.png" group-title="电影频道", 林正英经典玄幻电影
+https://mursor.ottiptv.cc/yy/1462895099
+#EXTINF:-1 tvg-name="林正英经典电影" tvg-id="林正英经典电影" tvg-logo="https://livecdn.zbds.org/logo/林正英经典电影.png" group-title="电影频道", 林正英经典电影
+https://mursor.ottiptv.cc/yy/34229877
+#EXTINF:-1 tvg-name="欧美大片" tvg-id="欧美大片" tvg-logo="https://livecdn.zbds.org/logo/欧美大片.png" group-title="电影频道", 欧美大片
+http://iptv.jxpan.vip:18888/aio/douyu/2793084
+#EXTINF:-1 tvg-name="欧美配音电影" tvg-id="欧美配音电影" tvg-logo="https://livecdn.zbds.org/logo/欧美配音电影.png" group-title="电影频道", 欧美配音电影
+https://mursor.ottiptv.cc/yy/1354693629
+#EXTINF:-1 tvg-name="止戈电影2" tvg-id="止戈电影2" tvg-logo="https://livecdn.zbds.org/logo/止戈电影2.png" group-title="电影频道", 止戈电影2
+https://mursor.ottiptv.cc/huya/29982681
+#EXTINF:-1 tvg-name="武侠电影" tvg-id="武侠电影" tvg-logo="https://livecdn.zbds.org/logo/武侠电影.png" group-title="电影频道", 武侠电影
+http://cfss.cc/cdn/hy/11342427.m3u8
+#EXTINF:-1 tvg-name="武侠电影放映厅" tvg-id="武侠电影放映厅" tvg-logo="https://livecdn.zbds.org/logo/武侠电影放映厅.png" group-title="电影频道", 武侠电影放映厅
+https://mursor.ottiptv.cc/huya/29982611
+#EXTINF:-1 tvg-name="每日好电影V" tvg-id="每日好电影V" tvg-logo="https://livecdn.zbds.org/logo/每日好电影V.png" group-title="电影频道", 每日好电影V
+https://mursor.ottiptv.cc/douyu/9533302
+#EXTINF:-1 tvg-name="治愈电影阳光小美女一家人的寻梦之旅" tvg-id="治愈电影阳光小美女一家人的寻梦之旅" tvg-logo="https://livecdn.zbds.org/logo/治愈电影阳光小美女一家人的寻梦之旅.png" group-title="电影频道", 治愈电影阳光小美女一家人的寻梦之旅
+https://mursor.ottiptv.cc/yy/1382736920
+#EXTINF:-1 tvg-name="泰州三套影视娱乐" tvg-id="泰州三套影视娱乐" tvg-logo="https://livecdn.zbds.org/logo/泰州三套影视娱乐.png" group-title="电影频道", 泰州三套影视娱乐
+http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=16dfe82d1725409426
+#EXTINF:-1 tvg-name="浙江影视" tvg-id="浙江影视" tvg-logo="https://livecdn.zbds.org/logo/浙江影视.png" group-title="电影频道", 浙江影视
+https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江教科影视" tvg-id="浙江教科影视" tvg-logo="https://livecdn.zbds.org/logo/浙江教科影视.png" group-title="电影频道", 浙江教科影视
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-name="涛浪浪电影" tvg-id="涛浪浪电影" tvg-logo="https://livecdn.zbds.org/logo/涛浪浪电影.png" group-title="电影频道", 涛浪浪电影
+https://mursor.ottiptv.cc/douyu/5424258
+#EXTINF:-1 tvg-name="涵哥评电影" tvg-id="涵哥评电影" tvg-logo="https://livecdn.zbds.org/logo/涵哥评电影.png" group-title="电影频道", 涵哥评电影
+https://mursor.ottiptv.cc/huya/16865726
+#EXTINF:-1 tvg-name="淘剧场" tvg-id="淘剧场" tvg-logo="https://livecdn.zbds.org/logo/淘剧场.png" group-title="电影频道", 淘剧场
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887497.m3u8
+#EXTINF:-1 tvg-name="淘娱乐" tvg-id="淘娱乐" tvg-logo="https://livecdn.zbds.org/logo/淘娱乐.png" group-title="电影频道", 淘娱乐
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887499.m3u8
+#EXTINF:-1 tvg-name="淘电影" tvg-id="淘电影" tvg-logo="https://livecdn.zbds.org/logo/淘电影.png" group-title="电影频道", 淘电影
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887498.m3u8
+#EXTINF:-1 tvg-name="热血抗日电影" tvg-id="热血抗日电影" tvg-logo="https://livecdn.zbds.org/logo/热血抗日电影.png" group-title="电影频道", 热血抗日电影
+https://mursor.ottiptv.cc/yy/1382749907
+#EXTINF:-1 tvg-name="熊猫电影" tvg-id="熊猫电影" tvg-logo="https://livecdn.zbds.org/logo/熊猫电影.png" group-title="电影频道", 熊猫电影
+https://mursor.ottiptv.cc/douyu/3506483
+#EXTINF:-1 tvg-name="爆笑电影王牌大贱谍23" tvg-id="爆笑电影王牌大贱谍23" tvg-logo="https://livecdn.zbds.org/logo/爆笑电影王牌大贱谍23.png" group-title="电影频道", 爆笑电影王牌大贱谍23
+https://mursor.ottiptv.cc/yy/1354936169
+#EXTINF:-1 tvg-name="爱星影视" tvg-id="爱星影视" tvg-logo="https://livecdn.zbds.org/logo/爱星影视.png" group-title="电影频道", 爱星影视
+https://mursor.ottiptv.cc/douyu/9476806
+#EXTINF:-1 tvg-name="特辑电影院" tvg-id="特辑电影院" tvg-logo="https://livecdn.zbds.org/logo/特辑电影院.png" group-title="电影频道", 特辑电影院
+https://mursor.ottiptv.cc/douyu/3637778
+#EXTINF:-1 tvg-name="猛虎电影" tvg-id="猛虎电影" tvg-logo="https://livecdn.zbds.org/logo/猛虎电影.png" group-title="电影频道", 猛虎电影
+https://mursor.ottiptv.cc/huya/24770988
+#EXTINF:-1 tvg-name="猫眼电影" tvg-id="猫眼电影" tvg-logo="https://livecdn.zbds.org/logo/猫眼电影.png" group-title="电影频道", 猫眼电影
+https://mursor.ottiptv.cc/douyu/8726221
+#EXTINF:-1 tvg-name="玖月影视" tvg-id="玖月影视" tvg-logo="https://livecdn.zbds.org/logo/玖月影视.png" group-title="电影频道", 玖月影视
+https://mursor.ottiptv.cc/douyu/9339251
+#EXTINF:-1 tvg-name="珍珠港电影" tvg-id="珍珠港电影" tvg-logo="https://livecdn.zbds.org/logo/珍珠港电影.png" group-title="电影频道", 珍珠港电影
+https://mursor.ottiptv.cc/yy/1354936234
+#EXTINF:-1 tvg-name="甄子丹电影" tvg-id="甄子丹电影" tvg-logo="https://livecdn.zbds.org/logo/甄子丹电影.png" group-title="电影频道", 甄子丹电影
+http://iptv.jxpan.vip:18888/aio/huya/11352935
+#EXTINF:-1 tvg-name="电影七十二变" tvg-id="电影七十二变" tvg-logo="https://livecdn.zbds.org/logo/电影七十二变.png" group-title="电影频道", 电影七十二变
+https://mursor.ottiptv.cc/douyu/9323164
+#EXTINF:-1 tvg-name="电影先锋V" tvg-id="电影先锋V" tvg-logo="https://livecdn.zbds.org/logo/电影先锋V.png" group-title="电影频道", 电影先锋V
+https://mursor.ottiptv.cc/douyu/8711212
+#EXTINF:-1 tvg-name="电影兴风作浪系列播放" tvg-id="电影兴风作浪系列播放" tvg-logo="https://livecdn.zbds.org/logo/电影兴风作浪系列播放.png" group-title="电影频道", 电影兴风作浪系列播放
+https://mursor.ottiptv.cc/yy/1382736857
+#EXTINF:-1 tvg-name="电影吐槽汇" tvg-id="电影吐槽汇" tvg-logo="https://livecdn.zbds.org/logo/电影吐槽汇.png" group-title="电影频道", 电影吐槽汇
+https://mursor.ottiptv.cc/douyu/9447668
+#EXTINF:-1 tvg-name="电影宇宙" tvg-id="电影宇宙" tvg-logo="https://livecdn.zbds.org/logo/电影宇宙.png" group-title="电影频道", 电影宇宙
+https://www.goodiptv.club/huya/11342428
+#EXTINF:-1 tvg-name="电影小班长" tvg-id="电影小班长" tvg-logo="https://livecdn.zbds.org/logo/电影小班长.png" group-title="电影频道", 电影小班长
+https://mursor.ottiptv.cc/douyu/549693
+#EXTINF:-1 tvg-name="电影最TOP2" tvg-id="电影最TOP2" tvg-logo="https://livecdn.zbds.org/logo/电影最TOP2.png" group-title="电影频道", 电影最TOP2
+https://mursor.ottiptv.cc/huya/29982676
+#EXTINF:-1 tvg-name="电影漩涡" tvg-id="电影漩涡" tvg-logo="https://livecdn.zbds.org/logo/电影漩涡.png" group-title="电影频道", 电影漩涡
+https://mursor.ottiptv.cc/douyu/8706350
+#EXTINF:-1 tvg-name="电影狂人A" tvg-id="电影狂人A" tvg-logo="https://livecdn.zbds.org/logo/电影狂人A.png" group-title="电影频道", 电影狂人A
+https://mursor.ottiptv.cc/huya/18715610
+#EXTINF:-1 tvg-name="电影百团大战" tvg-id="电影百团大战" tvg-logo="https://livecdn.zbds.org/logo/电影百团大战.png" group-title="电影频道", 电影百团大战
+https://mursor.ottiptv.cc/yy/1382736871
+#EXTINF:-1 tvg-name="电影笔记" tvg-id="电影笔记" tvg-logo="https://livecdn.zbds.org/logo/电影笔记.png" group-title="电影频道", 电影笔记
+https://mursor.ottiptv.cc/douyu/9636034
+#EXTINF:-1 tvg-name="电影黑匣子" tvg-id="电影黑匣子" tvg-logo="https://livecdn.zbds.org/logo/电影黑匣子.png" group-title="电影频道", 电影黑匣子
+https://mursor.ottiptv.cc/douyu/8706652
+#EXTINF:-1 tvg-name="电影黑豹" tvg-id="电影黑豹" tvg-logo="https://livecdn.zbds.org/logo/电影黑豹.png" group-title="电影频道", 电影黑豹
+https://mursor.ottiptv.cc/yy/1382736816
+#EXTINF:-1 tvg-name="科幻电影环太平洋" tvg-id="科幻电影环太平洋" tvg-logo="https://livecdn.zbds.org/logo/科幻电影环太平洋.png" group-title="电影频道", 科幻电影环太平洋
+https://mursor.ottiptv.cc/yy/1354936170
+#EXTINF:-1 tvg-name="精彩动作电影" tvg-id="精彩动作电影" tvg-logo="https://livecdn.zbds.org/logo/精彩动作电影.png" group-title="电影频道", 精彩动作电影
+https://mursor.ottiptv.cc/yy/1382736823
+#EXTINF:-1 tvg-name="精彩动作电影享不停" tvg-id="精彩动作电影享不停" tvg-logo="https://livecdn.zbds.org/logo/精彩动作电影享不停.png" group-title="电影频道", 精彩动作电影享不停
+https://mursor.ottiptv.cc/yy/1382736809
+#EXTINF:-1 tvg-name="经典武侠电影如来神掌" tvg-id="经典武侠电影如来神掌" tvg-logo="https://livecdn.zbds.org/logo/经典武侠电影如来神掌.png" group-title="电影频道", 经典武侠电影如来神掌
+https://mursor.ottiptv.cc/yy/1382749944
+#EXTINF:-1 tvg-name="经典港片电影" tvg-id="经典港片电影" tvg-logo="https://livecdn.zbds.org/logo/经典港片电影.png" group-title="电影频道", 经典港片电影
+https://mursor.ottiptv.cc/yy/1459801818
+#EXTINF:-1 tvg-name="经典电影" tvg-id="经典电影" tvg-logo="https://livecdn.zbds.org/logo/经典电影.png" group-title="电影频道", 经典电影
+https://mursor.ottiptv.cc/bilibili/1777481601
+#EXTINF:-1 tvg-name="经典电影重温" tvg-id="经典电影重温" tvg-logo="https://livecdn.zbds.org/logo/经典电影重温.png" group-title="电影频道", 经典电影重温
+https://mursor.ottiptv.cc/yy/1382793140
+#EXTINF:-1 tvg-name="经典科幻电影2001漫游太空" tvg-id="经典科幻电影2001漫游太空" tvg-logo="https://livecdn.zbds.org/logo/经典科幻电影2001漫游太空.png" group-title="电影频道", 经典科幻电影2001漫游太空
+https://mursor.ottiptv.cc/yy/1354926671
+#EXTINF:-1 tvg-name="绝版电影港片女鬼" tvg-id="绝版电影港片女鬼" tvg-logo="https://livecdn.zbds.org/logo/绝版电影港片女鬼.png" group-title="电影频道", 绝版电影港片女鬼
+https://mursor.ottiptv.cc/yy/1455988450
+#EXTINF:-1 tvg-name="缉魂科幻悬疑电影" tvg-id="缉魂科幻悬疑电影" tvg-logo="https://livecdn.zbds.org/logo/缉魂科幻悬疑电影.png" group-title="电影频道", 缉魂科幻悬疑电影
+https://mursor.ottiptv.cc/yy/1382745090
+#EXTINF:-1 tvg-name="缥缈国外热门电影" tvg-id="缥缈国外热门电影" tvg-logo="https://livecdn.zbds.org/logo/缥缈国外热门电影.png" group-title="电影频道", 缥缈国外热门电影
+https://mursor.ottiptv.cc/yy/1509338836
+#EXTINF:-1 tvg-name="美亚电影" tvg-id="美亚电影" tvg-logo="https://livecdn.zbds.org/logo/美亚电影.png" group-title="电影频道", 美亚电影
+https://live.tvfix.org/live/mydy/index.m3u8
+#EXTINF:-1 tvg-name="老卓电影" tvg-id="老卓电影" tvg-logo="https://livecdn.zbds.org/logo/老卓电影.png" group-title="电影频道", 老卓电影
+https://mursor.ottiptv.cc/yy/1354770516
+#EXTINF:-1 tvg-name="老王的夜电影院" tvg-id="老王的夜电影院" tvg-logo="https://livecdn.zbds.org/logo/老王的夜电影院.png" group-title="电影频道", 老王的夜电影院
+https://mursor.ottiptv.cc/douyu/3498219
+#EXTINF:-1 tvg-name="荒野求生影视" tvg-id="荒野求生影视" tvg-logo="https://livecdn.zbds.org/logo/荒野求生影视.png" group-title="电影频道", 荒野求生影视
+https://mursor.ottiptv.cc/huya/24766781
+#EXTINF:-1 tvg-name="蒲公英电影" tvg-id="蒲公英电影" tvg-logo="https://livecdn.zbds.org/logo/蒲公英电影.png" group-title="电影频道", 蒲公英电影
+https://mursor.ottiptv.cc/huya/28806637
+#EXTINF:-1 tvg-name="让子弹飞" tvg-id="让子弹飞" tvg-logo="https://livecdn.zbds.org/logo/让子弹飞.png" group-title="电影频道", 让子弹飞
+https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+#EXTINF:-1 tvg-name="谍战电影" tvg-id="谍战电影" tvg-logo="https://livecdn.zbds.org/logo/谍战电影.png" group-title="电影频道", 谍战电影
+http://iptv.jxpan.vip:18888/aio/huya/21059585
+#EXTINF:-1 tvg-name="豆瓣电影" tvg-id="豆瓣电影" tvg-logo="https://livecdn.zbds.org/logo/豆瓣电影.png" group-title="电影频道", 豆瓣电影
+https://live.tvfix.org/live/cmc/index.m3u8
+#EXTINF:-1 tvg-name="贰哥电影" tvg-id="贰哥电影" tvg-logo="https://livecdn.zbds.org/logo/贰哥电影.png" group-title="电影频道", 贰哥电影
+https://mursor.ottiptv.cc/douyu/9338867
+#EXTINF:-1 tvg-name="超精彩系列动作电影" tvg-id="超精彩系列动作电影" tvg-logo="https://livecdn.zbds.org/logo/超精彩系列动作电影.png" group-title="电影频道", 超精彩系列动作电影
+https://mursor.ottiptv.cc/yy/1382745096
+#EXTINF:-1 tvg-name="越越爱影视" tvg-id="越越爱影视" tvg-logo="https://livecdn.zbds.org/logo/越越爱影视.png" group-title="电影频道", 越越爱影视
+https://mursor.ottiptv.cc/yy/1382736886
+#EXTINF:-1 tvg-name="辟哥影视" tvg-id="辟哥影视" tvg-logo="https://livecdn.zbds.org/logo/辟哥影视.png" group-title="电影频道", 辟哥影视
+https://mursor.ottiptv.cc/huya/27653235
+#EXTINF:-1 tvg-name="辽宁影视剧" tvg-id="辽宁影视剧" tvg-logo="https://livecdn.zbds.org/logo/辽宁影视剧.png" group-title="电影频道", 辽宁影视剧
+http://120.76.248.139/live/bfgd/4200000070.m3u8
+#EXTINF:-1 tvg-name="逐梦电影" tvg-id="逐梦电影" tvg-logo="https://livecdn.zbds.org/logo/逐梦电影.png" group-title="电影频道", 逐梦电影
+https://mursor.ottiptv.cc/douyu/4058285
+#EXTINF:-1 tvg-name="邵氏影院" tvg-id="邵氏影院" tvg-logo="https://livecdn.zbds.org/logo/邵氏影院.png" group-title="电影频道", 邵氏影院
+http://iptv.jxpan.vip:18888/aio/douyu/4246519
+#EXTINF:-1 tvg-name="重走星爷的江湖路一部电影一个时代" tvg-id="重走星爷的江湖路一部电影一个时代" tvg-logo="https://livecdn.zbds.org/logo/重走星爷的江湖路一部电影一个时代.png" group-title="电影频道", 重走星爷的江湖路一部电影一个时代
+https://mursor.ottiptv.cc/bilibili/27702981
+#EXTINF:-1 tvg-name="野山鹰影视剧" tvg-id="野山鹰影视剧" tvg-logo="https://livecdn.zbds.org/logo/野山鹰影视剧.png" group-title="电影频道", 野山鹰影视剧
+https://mursor.ottiptv.cc/yy/1354932395
+#EXTINF:-1 tvg-name="野格影视" tvg-id="野格影视" tvg-logo="https://livecdn.zbds.org/logo/野格影视.png" group-title="电影频道", 野格影视
+https://mursor.ottiptv.cc/douyu/9931766
+#EXTINF:-1 tvg-name="金庸武侠" tvg-id="金庸武侠" tvg-logo="https://livecdn.zbds.org/logo/金庸武侠.png" group-title="电影频道", 金庸武侠
+http://iptv.jxpan.vip:18888/aio/huya/11342435
+#EXTINF:-1 tvg-name="铁血影视汇" tvg-id="铁血影视汇" tvg-logo="https://livecdn.zbds.org/logo/铁血影视汇.png" group-title="电影频道", 铁血影视汇
+https://mursor.ottiptv.cc/douyu/9649701
+#EXTINF:-1 tvg-name="阿涛影视" tvg-id="阿涛影视" tvg-logo="https://livecdn.zbds.org/logo/阿涛影视.png" group-title="电影频道", 阿涛影视
+https://mursor.ottiptv.cc/huya/30292047
+#EXTINF:-1 tvg-name="阿苏电影" tvg-id="阿苏电影" tvg-logo="https://livecdn.zbds.org/logo/阿苏电影.png" group-title="电影频道", 阿苏电影
+https://mursor.ottiptv.cc/douyu/9037784
+#EXTINF:-1 tvg-name="陕西西部电影" tvg-id="陕西西部电影" tvg-logo="https://livecdn.zbds.org/logo/陕西西部电影.png" group-title="电影频道", 陕西西部电影
+http://112.46.105.20:8009/hls/62/index.m3u8
+#EXTINF:-1 tvg-name="陪你看电影" tvg-id="陪你看电影" tvg-logo="https://livecdn.zbds.org/logo/陪你看电影.png" group-title="电影频道", 陪你看电影
+https://mursor.ottiptv.cc/yy/1382745084
+#EXTINF:-1 tvg-name="韩国电影1" tvg-id="韩国电影1" tvg-logo="https://livecdn.zbds.org/logo/韩国电影1.png" group-title="电影频道", 韩国电影1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 tvg-name="韩国电影2" tvg-id="韩国电影2" tvg-logo="https://livecdn.zbds.org/logo/韩国电影2.png" group-title="电影频道", 韩国电影2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+#EXTINF:-1 tvg-name="香兰爱影视" tvg-id="香兰爱影视" tvg-logo="https://livecdn.zbds.org/logo/香兰爱影视.png" group-title="电影频道", 香兰爱影视
+https://mursor.ottiptv.cc/douyu/9487090
+#EXTINF:-1 tvg-name="龙哥盘电影" tvg-id="龙哥盘电影" tvg-logo="https://livecdn.zbds.org/logo/龙哥盘电影.png" group-title="电影频道", 龙哥盘电影
+https://mursor.ottiptv.cc/douyu/9736161
+#EXTINF:-1 tvg-name="龙门飞甲" tvg-id="龙门飞甲" tvg-logo="https://livecdn.zbds.org/logo/龙门飞甲.png" group-title="电影频道", 龙门飞甲
+http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
+updateTime: 2025-08-27 11:44:56
