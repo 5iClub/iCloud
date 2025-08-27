@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="精品体育" tvg-id="精品体育" tvg-logo="https://livecdn.zbds.org/logo/精品体育.png" group-title="体育频道", 精品体育
+https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
+#EXTINF:-1 tvg-name="CCTV164K25PHLG源" tvg-id="" tvg-logo="https://livecdn.zbds.org/logo/CCTV164K25PHLG源.png" group-title="体育频道", CCTV164K25PHLG源
+http://113.62.253.22/live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 tvg-name="JJ斗地主" tvg-id="JJ斗地主" tvg-logo="https://livecdn.zbds.org/logo/JJ斗地主.png" group-title="体育频道", JJ斗地主
+http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 tvg-name="桥牌做庄初级" tvg-id="桥牌做庄初级" tvg-logo="https://livecdn.zbds.org/logo/桥牌做庄初级.png" group-title="体育频道", 桥牌做庄初级
+https://mursor.ottiptv.cc/bilibili/1970747082
+#EXTINF:-1 tvg-name="欧冠格拉茨风暴vs博德闪耀" tvg-id="欧冠格拉茨风暴vs博德闪耀" tvg-logo="https://livecdn.zbds.org/logo/欧冠格拉茨风暴vs博德闪耀.png" group-title="体育频道", 欧冠格拉茨风暴vs博德闪耀
+https://mursor.ottiptv.cc/bilibili/1850926136
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-id="睛彩广场舞" tvg-logo="https://livecdn.zbds.org/logo/睛彩广场舞.png" group-title="体育频道", 睛彩广场舞
+http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="象棋布局陷阱飞刀出其不意以弱胜强" tvg-id="象棋布局陷阱飞刀出其不意以弱胜强" tvg-logo="https://livecdn.zbds.org/logo/象棋布局陷阱飞刀出其不意以弱胜强.png" group-title="体育频道", 象棋布局陷阱飞刀出其不意以弱胜强
+https://mursor.ottiptv.cc/bilibili/22446951
+updateTime: 2025-08-27 11:44:41
