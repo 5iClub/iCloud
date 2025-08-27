@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="厦门卫视" tvg-id="厦门卫视" tvg-logo="https://livecdn.zbds.org/logo/厦门卫视.png" group-title="地方频道", 厦门卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226542/1.m3u8
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-id="大湾区卫视" tvg-logo="https://livecdn.zbds.org/logo/大湾区卫视.png" group-title="地方频道", 大湾区卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226540/1.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" tvg-id="优漫卡通" tvg-logo="https://livecdn.zbds.org/logo/优漫卡通.png" group-title="地方频道", 优漫卡通
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226932/1.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-id="哈哈炫动" tvg-logo="https://livecdn.zbds.org/logo/哈哈炫动.png" group-title="地方频道", 哈哈炫动
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226931/1.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-id="金鹰纪实" tvg-logo="https://livecdn.zbds.org/logo/金鹰纪实.png" group-title="地方频道", 金鹰纪实
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226572/1.m3u8
+#EXTINF:-1 tvg-name="北京新闻" tvg-id="北京新闻" tvg-logo="https://livecdn.zbds.org/logo/北京新闻.png" group-title="地方频道", 北京新闻
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8
+#EXTINF:-1 tvg-name="北京生活" tvg-id="北京生活" tvg-logo="https://livecdn.zbds.org/logo/北京生活.png" group-title="地方频道", 北京生活
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8
+#EXTINF:-1 tvg-name="北京财经" tvg-id="北京财经" tvg-logo="https://livecdn.zbds.org/logo/北京财经.png" group-title="地方频道", 北京财经
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8
+#EXTINF:-1 tvg-name="鹤岗新闻综合" tvg-id="鹤岗新闻综合" tvg-logo="https://livecdn.zbds.org/logo/鹤岗新闻综合.png" group-title="地方频道", 鹤岗新闻综合
+http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8
+#EXTINF:-1 tvg-name="黑龙江都市" tvg-id="黑龙江都市" tvg-logo="https://livecdn.zbds.org/logo/黑龙江都市.png" group-title="地方频道", 黑龙江都市
+http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225969/main.m3u8
+updateTime: 2025-08-27 11:45:08
