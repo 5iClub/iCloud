@@ -129,8 +129,6 @@ https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.br" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="Movies",MyTime Movie Network Brazil (720p)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon (Spain) (576p)
-http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Undefined",Nova Era TV (1080p) [Not 24/7]
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="NovaTVAgrotour.br" tvg-logo="https://i.imgur.com/cgN2hfm.png" group-title="Documentary;Science",Nova TV Agrotour (360p)
@@ -514,4 +512,4 @@ https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
 https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 #EXTINF:-1 tvg-id="WayTV.pt" tvg-logo="https://i.ibb.co/gdpvKpS/cropped-Asset-1.png" group-title="Religious",Way TV (1080p)
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-2025-08-28 07:48:10
+2025-08-31 07:48:33
