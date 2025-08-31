@@ -13,6 +13,8 @@ http://pili-live-hls.hfmt.net/gntv/lttv.m3u8?zgand
 http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="人与自然" tvg-id="人与自然" tvg-logo="https://livecdn.zbds.org/logo/人与自然.png" group-title="纪录频道", 人与自然
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
+#EXTINF:-1 tvg-name="兵团五师双河影" tvg-id="兵团五师双河影" tvg-logo="https://livecdn.zbds.org/logo/兵团五师双河影.png" group-title="纪录频道", 兵团五师双河影
+https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
 #EXTINF:-1 tvg-name="双辽" tvg-id="双辽" tvg-logo="https://livecdn.zbds.org/logo/双辽.png" group-title="纪录频道", 双辽
 http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="地理中国" tvg-id="地理中国" tvg-logo="https://livecdn.zbds.org/logo/地理中国.png" group-title="纪录频道", 地理中国
@@ -65,4 +67,4 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d3
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
 #EXTINF:-1 tvg-name="龙井" tvg-id="龙井" tvg-logo="https://livecdn.zbds.org/logo/龙井.png" group-title="纪录频道", 龙井
 http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
-updateTime: 2025-08-28 07:44:35
+updateTime: 2025-08-31 07:44:41
