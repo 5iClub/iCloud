@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC2" tvg-logo="https://livecdn.zbds.org/logo/CHC家庭影院.png" group-title="数字频道", CHC家庭影院
-http://atcq62.3950.cn:35455/mgtv/644368373.m3u8
 #EXTINF:-1 tvg-name="纪实科教8K" tvg-id="纪实科教8K" tvg-logo="https://livecdn.zbds.org/logo/纪实科教8K.png" group-title="数字频道", 纪实科教8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 tvg-name="南国都市" tvg-id="南国都市" tvg-logo="https://livecdn.zbds.org/logo/南国都市.png" group-title="数字频道", 南国都市
@@ -13,4 +11,4 @@ http://120.76.248.139/live/bfgd/4200000249.m3u8
 http://120.76.248.139/live/bfgd/4200000113.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://livecdn.zbds.org/logo/都市剧场.png" group-title="数字频道", 都市剧场
 http://112.46.105.20:8009/hls/72/index.m3u8
-updateTime: 2025-08-31 07:44:44
+updateTime: 2025-09-12 10:50:23
