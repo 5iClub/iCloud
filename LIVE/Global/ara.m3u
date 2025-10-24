@@ -246,6 +246,8 @@ https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkarmaTVYouthEnglish.us@SD" tvg-logo="https://i.imgur.com/kpuO8m7.png" group-title="Religious",Alkarma TV Youth & English (1080p) [Not 24/7]
 https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkassFour.qa@HD" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="Sports",Alkass Four HD (720p)
+https://Streamer3.qna.org.qa:443/148164621_live/148164621_296.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkassThree.qa@SD" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="Sports",Alkass Three (720p)
 https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="Sports",Alkass Two (720p)
@@ -403,7 +405,7 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunkli
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DubaiTV.ae@SD" tvg-logo="https://i.imgur.com/UMmbyHv.png" group-title="General",Dubai TV (1080p)
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiZaman.ae@SD" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/entity-logo-white/dubaizaman.png" group-title="Classic",Dubai Zaman (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="DubaiZaman.ae@SD" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-ar/dubaizaman.png" group-title="Classic",Dubai Zaman (1080p) [Not 24/7]
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DW.de@Arabic" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
@@ -945,7 +947,7 @@ https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
 #EXTINF:-1 tvg-id="WatarTV.ps@SD" tvg-logo="https://i.imgur.com/jdr22Sk.jpeg" group-title="General",Watar TV (720p) [Not 24/7]
 http://htvint.mada.ps:8889/orient/index.m3u8
 #EXTINF:-1 tvg-id="WelatTV.sy@HD" tvg-logo="https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4" group-title="News",Welat TV (1080i)
-http://stream.welattv.net:1935/welat/tv/.m3u8
+https://stream.badinan.xyz/welat/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="YasTV.ae@SD" tvg-logo="https://i.imgur.com/CSHQhP4.png" group-title="Undefined",Yas TV (1080p) [Geo-blocked]
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="YemenShababChannel.ye@SD" tvg-logo="https://i.imgur.com/H5Oi2NS.png" group-title="Culture",Yemen Shabab Channel (1080p)
@@ -964,4 +966,4 @@ http://213.57.91.138:8000/play/a05s
 http://213.57.91.138:8000/play/a05t
 #EXTINF:-1 tvg-id="ZeeAlwan.ae@Egypt" tvg-logo="https://i.imgur.com/OLuCox7.png" group-title="Entertainment;Series",Zee Alwan Egypt (576p)
 http://213.57.91.138:8000/play/a05u
-2025-10-16 19:38:56
+2025-10-24 07:03:33

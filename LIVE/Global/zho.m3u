@@ -4,7 +4,7 @@ http://cdn6.163189.xyz/163189/8tv
 #EXTINF:-1 tvg-id="ABNChina.us@SD" tvg-logo="https://i.imgur.com/zagVLQH.png" group-title="Religious",ABN China (720p)
 https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in@Chinese" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Chinese (720p)
-https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
+https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimationShowChannel.cn@SD" tvg-logo="https://i.imgur.com/Ul1pjUN.png" group-title="Animation;Kids",Animation Show Channel
 http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst
@@ -438,4 +438,4 @@ http://117.156.28.119/270000001111/1110000146/index.m3u8
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 #EXTINF:-1 tvg-id="HeilongjiangTV.cn@SD" tvg-logo="https://i.imgur.com/9fj1uba.png" group-title="General",黑龙江 (1080p)
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
-2025-10-16 19:39:17
+2025-10-24 07:03:54
